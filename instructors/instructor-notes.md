@@ -10,9 +10,9 @@ The following table provides the structure for the Geospatial Workshop and *esti
 
 | Lesson | Length                             | Include if:                                       | 
 | ------ | ---------------------------------- | ------------------------------------------------- |
-| [Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/) ([instructor notes](https://datacarpentry.org/organization-geospatial/guide/index.html))     | **75 minutes** - estimated, will not be accurate | Learners have no experience with geospatial data. | 
-| [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) ([instructor notes](https://datacarpentry.org/r-intro-geospatial/guide/index.html))     | **4 hours** - estimated, will not be accurate | Learners have no experience with R.               | 
-| [Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) ([instructor notes](https://datacarpentry.org/r-raster-vector-geospatial/guide/index.html))     | **7 hours** - estimated, will not be accurate | Always.                                           | 
+| [Introduction to Geospatial Concepts](https://datacarpentry.org/organization-geospatial/) ([instructor notes](https://datacarpentry.org/organization-geospatial/instructor/instructor-notes.htmlindex.html))     | **75 minutes** - estimated, will not be accurate | Learners have no experience with geospatial data. | 
+| [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) ([instructor notes](https://datacarpentry.org/r-intro-geospatial/instructor/instructor-notes.htmlindex.html))     | **4 hours** - estimated, will not be accurate | Learners have no experience with R.               | 
+| [Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) ([instructor notes](https://datacarpentry.org/r-raster-vector-geospatial/instructor/instructor-notes.htmlindex.html))     | **7 hours** - estimated, will not be accurate | Always.                                           | 
 
 If the workshop audience is experienced in both R and geospatial concepts, this workshop could theoretically be taught in one day. However, note that these timings are estimates and we are relying on feedback from pilot workshop Instructors to add accurate timing information.
 
